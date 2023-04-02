@@ -1,14 +1,1 @@
-
-
-#father{width:800px;height:600px;border:1px solid #F5F5F5;}
-.div-nofloat{height:100px;background-color:#F5F5F5;}
-.div-float{height:360px;background-color:pink;}
-
-#son1{margin:10px 10px 0px 10px;}
-#son2{margin:10px;width:595px;float:left;}
-#son3{margin:10px 10px 10px 0px;width:175px;float:right;}
-#son4{margin:10px;clear:both;}
-
-#id div{text-align:left;}
-
-/*这里是注释的内容不需要注意 */
+h3{font-family:Arial, Helvetica, sans-serif}
